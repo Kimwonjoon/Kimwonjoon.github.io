@@ -6,3 +6,4 @@
 - 1.6.0 : Aston Martin
 - 1.7.0 : Maserati
 - 1.8.0 : Mclauren
+- 1.9.0 : Bently
