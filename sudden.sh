@@ -1,5 +1,7 @@
 #!/bin/bash
 
+figlet POLESTAR
+
 FILE=~/tmp/_SUDDEN
 
 while true
