@@ -5,7 +5,8 @@ FILE=~/tmp/_SUDDEN
 while true
 do
 	if [ -f "$FILE" ]; then
-		echo "SUDDEN!!! $FILE"
+		#echo "SUDDEN!!! $FILE"
+		echo "SUDDEN!!!"
 	else
 		clear
 		date
