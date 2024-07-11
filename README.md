@@ -7,3 +7,4 @@
 - 1.7.0 : Maserati
 - 1.8.0 : Mclauren
 - 1.9.0 : Bently
+- 3.0.0 : SUDDEN SHELL SCRIPT
