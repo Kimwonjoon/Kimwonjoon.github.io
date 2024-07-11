@@ -11,6 +11,7 @@ do
 		echo "SUDDEN!!!"
 	else
 		clear
+		figlet POLESTAR
 		date
 	fi
 	sleep 3
