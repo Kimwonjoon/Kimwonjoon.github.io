@@ -1,6 +1,6 @@
 {
   "hosting": {
-	  "site" : "kwjp",
+    "site":"kwjp-e7bfc",
     "public": "docs",
     "ignore": [
       "firebase.json",
